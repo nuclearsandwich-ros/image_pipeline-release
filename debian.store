@@ -1,1 +1,1 @@
-{"base": "3e86278", "parent": "debian/rolling/image_pipeline", "previous": "92176c3", "trim": "", "trimbase": ""}
+{"base": "1be8e19", "parent": "debian/humble/image_pipeline", "previous": "1950aa2", "trim": "", "trimbase": ""}
