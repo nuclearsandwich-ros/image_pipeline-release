@@ -1,1 +1,1 @@
-{"base": "c5f8f4b", "parent": "debian/rolling/camera_calibration", "previous": "725114d", "trim": "", "trimbase": ""}
+{"base": "d8a80ff", "parent": "debian/humble/camera_calibration", "previous": "0839491", "trim": "", "trimbase": ""}
